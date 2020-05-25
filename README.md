@@ -1,5 +1,9 @@
 手势配合tableView滑动
 =================
+
+高德首页滑动view低配版
+
+
 有一个小问题请大佬赐教：
 当外层的手势View滑到最大值时，下拉手势view中的tableView，下拉tableView到顶端时怎么把tableView的滑动效果传递给父视图手势View（就是tableView滑到顶端时手势view下滑）
 
