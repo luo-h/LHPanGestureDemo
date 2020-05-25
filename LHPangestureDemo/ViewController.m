@@ -48,7 +48,7 @@
 - (void)btnClick:(UIButton *)button{
     CGFloat color = arc4random()%255;
     [button setTitleColor:[UIColor colorWithRed:color/255 green:color/255 blue:color/255 alpha:1] forState:UIControlStateNormal];
-    NSLog(@"111");
+    NSLog(@"巴拉巴拉...");
 }
 #pragma mark -delegate
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
