@@ -1,3 +1,4 @@
+![image](https://github.com/luo-h/LHPanGestureDemo/blob/master/%E6%89%8B%E5%8A%BF.gif)
 手势配合tableView滑动
 =================
 

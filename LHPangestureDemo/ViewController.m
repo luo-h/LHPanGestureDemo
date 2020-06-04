@@ -39,6 +39,12 @@
         handle.orShowCorners = YES;
         handle.cornersValue = 5;
         _handle = handle;
+    
+    NSString *str = @"2121";
+    str = [str stringByAppendingFormat:@"sssss"];
+    str = [str stringByAppendingFormat:@"aaa"];
+    str = [str stringByAppendingFormat:@"bbb"];
+    NSLog(@"%@",str);
     }
 
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView{
